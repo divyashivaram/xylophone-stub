@@ -1,16 +1,8 @@
 # xylophone
 
-A new Flutter project.
+This is a stub project created in place of existing project on Udemy course by Dr. Angela Yu.
+The old one needed migration since it was created using 'flutter create' prior to version 1.12
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reference: https://github.com/flutter/flutter/wiki/Upgrading-pre-1.12-Android-projects
+Original stub: https://github.com/londonappbrewery/xylophone-flutter 
+Course url: https://www.udemy.com/course/flutter-bootcamp-with-dart/
